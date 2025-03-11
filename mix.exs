@@ -48,7 +48,7 @@ defmodule Eximap.Mixfile do
       {:credo, "~> 0.8.8", only: [:dev, :test], runtime: false},
       {:ex_doc, "~> 0.19", only: [:dev, :test], runtime: false},
       {:excoveralls, "~> 0.7.4", only: [:dev, :test], runtime: false},
-      {:certifi, "~> 2.12.0"}
+      {:certifi, "~> 2.12"}
     ]
   end
 
